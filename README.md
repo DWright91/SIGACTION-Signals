@@ -92,8 +92,11 @@ controller: Sending SIGUSR1 to child process (153).
 compute(152): SIGUSR1 received.
 
 compute(153): SIGUSR1 received.
+
 .
+
 .
+
 .
 
 compute(152): For interval [0,100000): count = nnnn
